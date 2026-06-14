@@ -1,0 +1,24 @@
+[submodule "HW1"]
+	path = HW1
+	url = https://github.com/shivamhingorani/UW-CSE-DatabaseSystems-HW1
+[submodule "HW2"]
+	path = HW2
+	url = https://github.com/shivamhingorani/UW-CSE-DatabaseSystems-HW2
+[submodule "HW3"]
+	path = HW3
+	url = https://github.com/shivamhingorani/UW-CSE-DatabaseSystems-HW3
+[submodule "HW4"]
+	path = HW4
+	url = https://github.com/shivamhingorani/UW-CSE-DatabaseSystems-HW4
+[submodule "HW5"]
+	path = HW5
+	url = https://github.com/shivamhingorani/UW-CSE-DatabaseSystems-HW5
+[submodule "HW6"]
+	path = HW6
+	url = https://github.com/shivamhingorani/UW-CSE-DatabaseSystems-HW6
+[submodule "HW7"]
+	path = HW7
+	url = https://github.com/shivamhingorani/UW-CSE-DatabaseSystems-HW7
+[submodule "HW8"]
+	path = HW8
+	url = https://github.com/shivamhingorani/UW-CSE-DatabaseSystems-HW8
